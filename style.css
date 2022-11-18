@@ -1,4 +1,7 @@
+.input {
+  margin: 4px;
+}
 h1 {
-  color: red;
+  color: blue;
   font-weight: bold;
 }
